@@ -1,6 +1,8 @@
 Attribute VB_Name = "Lib_Utl"
 Option Explicit
 
+' added comment
+
 Public Const CELL_REFRESH_STATUS = "Parameters!$C$1"
 
 Public REFRESH_IN_PROGRESS As Boolean
